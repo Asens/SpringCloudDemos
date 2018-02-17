@@ -1,0 +1,1980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec04568b-a625-45df-9e34-bfae4d366256" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="RibbonLoadBalancerClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="116" column="41" lean-forward="true" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
+              <folding>
+                <element signature="e#4925#4926#0" expanded="true" />
+                <element signature="e#4984#4985#0" expanded="true" />
+                <element signature="e#5291#5307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomRule.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudClientConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/asens/config/CloudClientConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadBalancerInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.1.RELEASE/spring-cloud-commons-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/asens/config/CloudClientConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="asens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="asens" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="asens" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoundClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-core-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-core-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-core-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-core-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-core:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-core-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-loadbalancer-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-loadbalancer-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-loadbalancer-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-loadbalancer-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="loadbalancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.netflix.ribbon:ribbon-loadbalancer:2.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="ribbon-loadbalancer-2.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="jersey-client-1.19.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="jersey-client-1.19.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="jersey-client-1.19.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="jersey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="jersey-client-1.19.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="jersey" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.sun.jersey:jersey-client:1.19.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="jersey-client-1.19.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="jersey" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.httpcomponents:httpclient:4.5.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.httpcomponents:httpclient:4.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="httpclient-4.5.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.httpcomponents:httpclient:4.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="httpclient-4.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.httpcomponents:httpclient:4.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="httpclient-4.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.httpcomponents:httpclient:4.5.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="httpclient-4.5.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="loadbalancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-context:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-context:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-context-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-context:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-context-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-context:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-context-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-context:1.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-context-1.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="named" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-core-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-core-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-core-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="metrics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-core-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-client-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-client-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:1.4.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-client-1.4.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.asens.Application" />
+      <module name="CloudClient" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\asens\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec04568b-a625-45df-9e34-bfae4d366256" name="Default" comment="" />
+      <created>1518572417092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518572417092</updated>
+      <workItem from="1518572418557" duration="149000" />
+      <workItem from="1518573816249" duration="1709000" />
+      <workItem from="1518597198732" duration="2508000" />
+      <workItem from="1518648269611" duration="10731000" />
+      <workItem from="1518748520477" duration="8423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23520000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38391846" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24087983" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getDefaultPoolKeepAliveTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getBean(requiredType, (Object[]) null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.getMethod()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.getURI()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getMessageConverters()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.methodProxy.invoke(this.target, this.arguments)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invokeJoinpoint()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>adviceInvocationArgs[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invokeAdviceMethod(pjp, jpm, null, null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Present.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.4.2.RELEASE/spring-cloud-netflix-eureka-client-1.4.2.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/eureka/EurekaServerIntrospector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.1.RELEASE/spring-cloud-commons-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/ServiceRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/support/HttpRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="231" column="0" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/aspectj/AspectJAroundAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/interceptor/ExposeInvocationInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/asens/controller/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="737" column="0" lean-forward="false" selection-start-line="737" selection-start-column="0" selection-end-line="737" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/AbstractClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/AbstractBufferingClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#1085#1086#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/metrics/RestTemplateUrlTemplateCapturingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE-sources.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13440">
+          <caret line="628" column="0" lean-forward="false" selection-start-line="628" selection-start-column="0" selection-end-line="628" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14064">
+          <caret line="643" column="0" lean-forward="false" selection-start-line="643" selection-start-column="0" selection-end-line="643" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/support/GenericApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <marker date="1518569991206" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518569991206" expanded="false" signature="159:1051" ph="..." />
+            <marker date="1518569991206" expanded="true" signature="1386:1540" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="1619:1821" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="1887:1942" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="2048:2114" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="2169:2293" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="2327:2338" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="2354:2360" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="2450:2547" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="2625:2710" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="2776:2787" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="2824:2830" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="2881:3006" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="3086:3281" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="3339:3428" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="3470:3612" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="3689:3987" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="4041:4140" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="4185:4196" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="4246:4252" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="4319:4330" ph=" { " />
+            <marker date="1518569991206" expanded="true" signature="4354:4360" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="4437:4448" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="4472:4478" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="4579:4659" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="4784:4866" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="4959:5023" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="5123:5191" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="5244:5255" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5305:5311" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5373:5384" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5432:5438" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5481:5492" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5528:5534" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5579:5590" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5632:5638" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="595" column="0" lean-forward="false" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+          <folding>
+            <marker date="1518569991206" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518569991206" expanded="false" signature="159:3541" ph="..." />
+            <marker date="1518569991206" expanded="true" signature="4778:5287" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="5354:5409" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="5443:5454" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5467:5473" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5500:5511" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5526:5532" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5572:5583" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5593:5599" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="5652:5772" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="5808:5819" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5843:5849" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5892:5903" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="5922:5928" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="5997:6008" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="6039:6045" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="6099:6247" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="6306:6317" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="6350:6356" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="6457:6502" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="6536:6547" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="6571:6577" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="6631:6642" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="6689:6695" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="6739:6750" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="6797:6803" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="6877:8017" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="8113:8417" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="8495:8779" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="8848:8917" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="8972:9294" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="9380:9530" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="9604:9615" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="9653:9659" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="9733:10030" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="10103:10114" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="10147:10153" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="10226:11438" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="11476:11862" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="11905:11912" ph="{}" />
+            <marker date="1518569991206" expanded="true" signature="11985:12284" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="12369:14421" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="14510:14517" ph="{}" />
+            <marker date="1518569991206" expanded="true" signature="14615:15064" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="15157:15253" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="15294:16568" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="16623:17601" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="17647:18622" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="18677:18684" ph="{}" />
+            <marker date="1518569991206" expanded="true" signature="18725:19857" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="19955:21086" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="20338:20431" ph="resolveStringValue(strVal) → {" />
+            <marker date="1518569991206" expanded="false" signature="20549:20568" ph="}" />
+            <marker date="1518569991206" expanded="true" signature="21123:21355" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="21408:21419" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="21442:21448" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="21489:21647" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="21688:22112" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="21763:21813" ph="run() → {" />
+            <marker date="1518569991206" expanded="false" signature="22006:22025" ph="}" />
+            <marker date="1518569991206" expanded="false" signature="22139:22150" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="22163:22169" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="22195:22600" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="22631:23535" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="23570:23581" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="23623:23629" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="23660:23667" ph="{}" />
+            <marker date="1518569991206" expanded="false" signature="23698:23709" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="23734:23740" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="23787:24115" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="24178:24277" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="24362:24475" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="24547:24654" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="24733:24838" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="24926:25039" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="25085:25096" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="25144:25150" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="25233:25336" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="25419:25522" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="25633:25749" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="25854:25970" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="26050:26149" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="26194:26205" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="26251:26257" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="26318:26396" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="26437:26448" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="26502:26508" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="26554:26565" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="26619:26625" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="26688:26799" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="26856:26967" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="27078:27227" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="27311:27417" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="27555:27699" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="27791:27918" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="28040:28164" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="28302:28434" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="28481:28492" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="28516:28522" ph=" }" />
+            <marker date="1518569991206" expanded="false" signature="28573:28584" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="28637:28643" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="28702:28888" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="28985:29079" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="29183:29261" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="29373:29451" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="29527:29788" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="29851:30028" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="30108:30190" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="30216:30347" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="30372:30502" ph="{...}" />
+            <marker date="1518569991206" expanded="false" signature="30534:30545" ph=" { " />
+            <marker date="1518569991206" expanded="false" signature="30623:30629" ph=" }" />
+            <marker date="1518569991206" expanded="true" signature="30905:31347" ph="{...}" />
+            <marker date="1518569991206" expanded="true" signature="31360:31411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="171" column="5" lean-forward="false" selection-start-line="171" selection-start-column="5" selection-end-line="171" selection-end-column="5" />
+          <folding>
+            <marker date="1518569991037" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518569991037" expanded="false" signature="165:3169" ph="..." />
+            <marker date="1518569991037" expanded="true" signature="4541:4548" ph="{}" />
+            <marker date="1518569991037" expanded="false" signature="4618:4629" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="4654:4660" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="4721:5022" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="5062:5073" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="5101:5107" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="5197:5280" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="5334:5345" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="5387:5393" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="5469:5538" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="5585:5596" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="5631:5637" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="5720:5785" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="5842:5853" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="5886:5892" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="5998:6775" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="6267:6341" ph="run() → {" />
+            <marker date="1518569991037" expanded="false" signature="6514:6537" ph="}" />
+            <marker date="1518569991037" expanded="false" signature="6844:6855" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="6893:6899" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="6977:7730" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="7802:7868" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="7956:8414" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="8475:8607" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="8648:8659" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="8696:8702" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="8749:8916" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="8978:8989" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="9041:9047" ph=" }" />
+            <marker date="1518569991037" expanded="false" signature="9103:9114" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="9164:9170" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="9281:10148" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="10268:14581" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="14652:14782" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="14866:14927" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="15065:16274" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="16366:17211" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="17311:17728" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="17866:18534" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="18629:19127" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="19255:19362" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="19529:20463" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="20617:21320" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="21420:21799" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="21852:22073" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="22112:22188" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="22228:22370" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="22414:22425" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="22457:22463" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="22537:22637" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="22704:25893" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="23873:23975" ph="run() → {" />
+            <marker date="1518569991037" expanded="false" signature="24183:24234" ph="}" />
+            <marker date="1518569991037" expanded="false" signature="25239:25323" ph="run() → {" />
+            <marker date="1518569991037" expanded="false" signature="25430:25461" ph="}" />
+            <marker date="1518569991037" expanded="true" signature="26018:29350" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="29443:30454" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="30512:31041" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="31087:31098" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="31144:31150" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="31256:32034" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="32086:32220" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="32258:32376" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="32414:32509" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="32607:33120" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="33235:35681" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="35862:37033" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="37206:40541" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="40694:44452" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="44518:44770" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="44830:44971" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="45065:45321" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="45459:45884" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="46016:48604" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="48751:49097" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="49212:50375" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="50479:51631" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="51743:53030" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="53102:53466" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="53523:53721" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="53800:53954" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="54031:54268" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="54413:54696" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="54790:55867" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="55898:56423" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="56519:56672" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="56739:57023" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="57036:57539" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="57651:57768" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="57721:57736" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="57752:57762" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="57851:58013" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="57926:58007" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="58096:59589" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="58236:58309" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="58360:59124" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="59200:59583" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="59631:59903" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="59673:59684" ph="{}" />
+            <marker date="1518569991037" expanded="true" signature="59783:59897" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60036:60286" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60128:60180" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60232:60280" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60379:63418" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60606:60873" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="60931:61223" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="61301:62040" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="61611:61875" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="61729:61857" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="62103:62701" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="62407:62536" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="62456:62483" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="62496:62518" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="62761:63412" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="62856:63120" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="62901:62924" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="62937:62955" ph=" }" />
+            <marker date="1518569991037" expanded="false" signature="63053:63076" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="63088:63106" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="63479:64378" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="63525:63536" ph="{}" />
+            <marker date="1518569991037" expanded="true" signature="63657:64372" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="63780:64209" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="63825:63848" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="63861:63879" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="63993:64195" ph="{...}" />
+            <marker date="1518569991037" expanded="true" signature="64460:65005" ph="{...}" />
+            <marker date="1518569991037" expanded="false" signature="64552:64567" ph=" { " />
+            <marker date="1518569991037" expanded="false" signature="64580:64590" ph=" }" />
+            <marker date="1518569991037" expanded="true" signature="64629:64999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.4/ribbon-core-2.2.4.jar!/com/netflix/client/config/IClientConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1992">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/NamedBeanHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#1687#1688#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-client/1.19.1/jersey-client-1.19.1.jar!/com/sun/jersey/api/client/config/DefaultClientConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <marker date="1518569955309" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1518569955309" expanded="false" signature="156:280" ph="..." />
+            <marker date="1518569955309" expanded="true" signature="642:649" ph="{}" />
+            <marker date="1518569955309" expanded="false" signature="701:712" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="758:764" ph=" }" />
+            <marker date="1518569955309" expanded="false" signature="821:832" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="865:871" ph=" }" />
+            <marker date="1518569955309" expanded="false" signature="910:921" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="943:949" ph=" }" />
+            <marker date="1518569955309" expanded="false" signature="989:1000" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="1030:1036" ph=" }" />
+            <marker date="1518569955309" expanded="false" signature="1083:1094" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="1115:1121" ph=" }" />
+            <marker date="1518569955309" expanded="true" signature="1173:1279" ph="{...}" />
+            <marker date="1518569955309" expanded="false" signature="1327:1338" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="1361:1367" ph=" }" />
+            <marker date="1518569955309" expanded="false" signature="1419:1430" ph=" { " />
+            <marker date="1518569955309" expanded="false" signature="1471:1477" ph=" }" />
+            <marker date="1518569955309" expanded="true" signature="1532:1638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-client/1.19.1/jersey-client-1.19.1-sources.jar!/com/sun/jersey/api/client/config/DefaultClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1559">
+          <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.4/ribbon-core-2.2.4.jar!/com/netflix/client/config/DefaultClientConfigImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518569945518" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1518569945518" expanded="false" signature="149:776" ph="..." />
+            <marker date="1518569945518" expanded="true" signature="2810:2828" ph="/**...*/" />
+            <marker date="1518569945518" expanded="true" signature="2921:2939" ph="/**...*/" />
+            <marker date="1518569945518" expanded="false" signature="4956:4967" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5019:5025" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5084:5095" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5139:5145" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="5205:5281" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="5336:5347" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5403:5409" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5463:5474" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5513:5519" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5566:5577" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5626:5632" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5691:5702" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5755:5761" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5812:5823" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5834:5840" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5899:5910" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="5923:5929" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="5992:6003" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6012:6018" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6073:6084" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6124:6130" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6186:6197" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6215:6221" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6281:6292" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6305:6311" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6367:6378" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6419:6425" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6489:6500" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6551:6557" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6622:6633" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6685:6691" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6739:6750" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6782:6788" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6844:6855" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6867:6873" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6926:6937" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="6946:6952" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="6995:7006" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7015:7021" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7061:7072" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7084:7090" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7143:7154" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7166:7172" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7215:7226" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7238:7244" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="7250:7268" ph="/**...*/" />
+            <marker date="1518569945518" expanded="false" signature="7337:7348" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7358:7364" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="7370:7388" ph="/**...*/" />
+            <marker date="1518569945518" expanded="false" signature="7455:7466" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7477:7483" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7533:7544" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7554:7560" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7608:7619" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7630:7636" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7691:7702" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7714:7720" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7773:7784" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7842:7848" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="7894:7905" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="7968:7974" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8039:8050" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8063:8069" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8123:8134" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8147:8153" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8198:8209" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8230:8236" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8284:8295" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8331:8337" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8380:8391" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8402:8408" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8451:8462" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8471:8477" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8524:8535" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8547:8553" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8609:8620" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8662:8668" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8719:8730" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8766:8772" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8826:8837" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8876:8882" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8915:8926" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="8938:8944" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="8995:9006" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="9041:9047" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="9104:9115" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="9160:9166" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="9219:9230" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="9269:9275" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="9314:9722" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="9777:9844" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="9882:15332" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="15385:15396" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="15434:15440" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="15522:15586" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="15637:15774" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="15852:17276" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="16258:17163" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="16294:16621" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="16675:16943" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="16985:17008" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="17024:17042" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="17081:17104" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="17131:17149" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="17372:17574" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="17664:17860" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="17952:18150" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="18248:18596" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="18644:18655" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="18699:18705" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="18770:18781" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="18828:18834" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="18928:19128" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="19224:19426" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="19476:19487" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="19516:19522" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="19557:19568" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="19591:19597" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="19653:20442" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="20521:21343" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="21442:22060" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="22124:22429" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="22462:22661" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="22694:22893" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="22941:22952" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="22975:22981" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="23046:23057" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="23100:23106" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="23192:23258" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="23323:23910" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="23957:24730" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="24784:24901" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="24974:25072" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="25180:25278" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="25367:25429" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="25461:25611" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="25671:25748" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="25779:26511" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="26608:26696" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="26787:26868" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="26943:27021" ph="{...}" />
+            <marker date="1518569945518" expanded="false" signature="27055:27066" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="27096:27102" ph=" }" />
+            <marker date="1518569945518" expanded="false" signature="27162:27173" ph=" { " />
+            <marker date="1518569945518" expanded="false" signature="27210:27216" ph=" }" />
+            <marker date="1518569945518" expanded="true" signature="27312:27390" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="27469:27546" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="27660:27814" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="27892:28227" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="28310:28441" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="28527:28861" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="28909:30224" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="30303:30378" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="30442:30578" ph="{...}" />
+            <marker date="1518569945518" expanded="true" signature="30591:31558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.4/ribbon-core-2.2.4-sources.jar!/com/netflix/client/config/IClientConfigKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.4/ribbon-core-2.2.4-sources.jar!/com/netflix/client/config/CommonClientConfigKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+          <folding>
+            <element signature="e#4041#4049#0" expanded="false" />
+            <element signature="e#14089#14090#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.4/ribbon-core-2.2.4-sources.jar!/com/netflix/client/config/DefaultClientConfigImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="575" column="0" lean-forward="false" selection-start-line="575" selection-start-column="0" selection-end-line="575" selection-end-column="0" />
+          <folding>
+            <element signature="e#10372#10373#0" expanded="false" />
+            <element signature="e#10423#10424#0" expanded="false" />
+            <element signature="e#11597#11598#0" expanded="false" />
+            <element signature="e#11639#11640#0" expanded="false" />
+            <element signature="e#11792#11793#0" expanded="false" />
+            <element signature="e#11834#11835#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/metrics/MetricsClientHttpRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/AvailabilityFilteringRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="45" column="58" lean-forward="true" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#3023#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/ConfigurationBasedServerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#2112#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/PredicateBasedRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/BaseLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/SpringClientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="e#2032#2033#0" expanded="false" />
+            <element signature="e#3668#3669#0" expanded="false" />
+            <element signature="e#3704#3705#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/support/GenericApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="289" column="0" lean-forward="false" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+          <folding>
+            <element signature="e#11190#11191#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="339" column="0" lean-forward="false" selection-start-line="339" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1089" column="0" lean-forward="false" selection-start-line="1089" selection-start-column="0" selection-end-line="1089" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.3.1.RELEASE/spring-cloud-context-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/context/named/NamedContextFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.1.RELEASE/spring-cloud-commons-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1802#2304#0" expanded="false" />
+            <element signature="e#2303#2304#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/asens/config/CloudClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.2.4/ribbon-loadbalancer-2.2.4-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.2.RELEASE/spring-cloud-netflix-core-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="116" column="41" lean-forward="true" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
+          <folding>
+            <element signature="e#4925#4926#0" expanded="true" />
+            <element signature="e#4984#4985#0" expanded="true" />
+            <element signature="e#5291#5307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.1.RELEASE/spring-cloud-commons-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
